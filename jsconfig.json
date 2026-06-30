@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "ignoreDeprecations": "6.0",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "jsx": "preserve",
+    "checkJs": false
+  },
+  "exclude": ["node_modules", ".next"]
+}
